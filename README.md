@@ -22,7 +22,7 @@ This is a basic calculator built using HTML, CSS, and JavaScript. It performs si
 4. Use the clear (AC) button to reset the calculator.
 
 ### Contributing
-Contributors to this project is always welcome!
+Contributors to this project are always welcome!
 
 ### Licence
 
